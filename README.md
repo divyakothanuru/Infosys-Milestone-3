@@ -110,6 +110,3 @@ python milestone3_evaluation_refinement.py
 ## 🏁 Conclusion
 
 This project demonstrates the complete lifecycle of an AI recommendation system, from data preparation to model evaluation and refinement, fulfilling all the requirements of **Milestone 3** of the Infosys Springboard Internship.
-* ✔️ **Mentor viva explanation**
-
-Just say **next** 😊
